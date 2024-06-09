@@ -17,7 +17,7 @@ import { Aptos } from "@aptos-labs/ts-sdk";
 
 const aptos = new Aptos();
 export const moduleAddress =
-  "95741305186a8c4430f50dadc4fe6f1e5ea90f3c7832914cf7cc131b2dd80f39";
+  "0x95741305186a8c4430f50dadc4fe6f1e5ea90f3c7832914cf7cc131b2dd80f39";
 
 type Task = {
   address: string;
